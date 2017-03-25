@@ -14,7 +14,7 @@
 
 ![download](./download.png)
 
-注意右側有一個download的按鈕，按下之後，會進入圖片真正的儲存畫面
+注意右側有一個**download**的按鈕，按下之後，會進入圖片真正的儲存畫面
 
 ![figureURL](./figureURL.png)
 
